@@ -209,7 +209,7 @@ body {
 .news-caption {
     margin-top: 10px;
     font-style: italic;
-    color: #777;
+    color: rgb(255, 255, 255);
     text-align: center;
     font-size: 14px;
     font-family: 'Arina', sans-serif; /* Применение шрифта Arina */
